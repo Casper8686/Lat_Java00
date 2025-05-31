@@ -1,0 +1,1 @@
+rootProject.name = "Lat_Full00"
